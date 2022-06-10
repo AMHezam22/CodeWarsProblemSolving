@@ -1,4 +1,4 @@
-# https://www.codewars.com/kata/56b7251b81290caf76000978
+# https://www.codewars.com/kata/56b7771481290cc283000f28
 # 6 Kyu
 
 # In this kata have to find the last digit in Fibonacci sequences.
